@@ -1,2 +1,5 @@
-# MS_Mapping_2.0
-This is a mapping project for engineering, not for research, which fix the problems in LIO_SAM_6axis and Ms_mapping.
+# MS-Mapping Documentation
+
+- English: [README_EN.md](README_EN.md)
+- 中文: [README_ZH.md](README_ZH.md)
+
